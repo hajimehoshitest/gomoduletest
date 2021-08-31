@@ -1,5 +1,5 @@
 package gomoduletest
 
 func Foo() {
-	println("v2")
+	println("v3")
 }
