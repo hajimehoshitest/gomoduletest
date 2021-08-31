@@ -1,5 +1,5 @@
-package main
+package gomoduletest
 
-func main() {
-	println("v0")
+func Foo() {
+	println("v1")
 }
